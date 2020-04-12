@@ -34,7 +34,7 @@ describe('Calculator website demo tests', function () {
         browser.sleep(2000);
     });
 
-    it('Multiplication test', function(){
+    it('Division test', function(){
         homepage.get('http://juliemr.github.io/protractor-demo/');
         homepage.enterFirstNumber('6');
         homepage.selectOperator('/');
