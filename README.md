@@ -1,2 +1,2 @@
 # JSProtractorAutomationTesting
-It's a JS automation framework using Protractor and Jashime.
+It's a JS automation testing framework using Protractor and Jashime.
